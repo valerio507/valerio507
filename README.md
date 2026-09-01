@@ -1,3 +1,7 @@
+
+<img width="3080" height="2320" alt="aesthetic-anime-character-gaming (1)" src="https://github.com/user-attachments/assets/f2225baa-927b-4b7b-9db2-8013dceac24d" />
+
+
 # 💫 About Me:
  🧠 About Me<br><br>Cybersecurity Engineering student with practical experience in technical support, networking, and server administration. I have knowledge of information security, risk analysis, data protection, Windows operating systems, and programming.<br><br>I am passionate about technology and creating solutions that are accessible, secure, and useful for people. <br>I am known for my analytical thinking, problem-solving skills, quick learning, and attention to detail. <br>I am interested in continuing to develop professionally in cybersecurity, networking, and technology.<br><br>🔭 I’m currently working on<br>Cybersecurity and software development projects.<br><br>👯 I’m looking to collaborate on<br>Open-source cybersecurity and technology projects.<br><br>🤝 I’m looking for help with<br>Growing my skills in cybersecurity and secure programming.<br><br>🌱 I’m currently learning<br>Cybersecurity, networking, Python, Linux, and web development.<br><br>💬 Ask me about<br>Cybersecurity, networking, technical support, and programming.<br><br>⚡ Fun fact<br>I’m always curious about how technology works—and how to make it more secure.<br>
 
